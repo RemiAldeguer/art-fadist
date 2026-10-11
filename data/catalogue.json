@@ -1,0 +1,490 @@
+{
+  "importedAt": "2026-10-07",
+  "source": "https://art-fadist.com/wp-json/wc/store/v1/products?per_page=100",
+  "products": [
+    {
+      "id": 1187,
+      "slug": "ruthless-nature",
+      "name": "Ruthless Nature",
+      "description": "",
+      "price": 1095.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "100 × 100 cm",
+      "medium": "Acrylic on canvas",
+      "image": "/assets/works/ruthless-nature.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2023/12/Ruthless-Nature-Framed-100x100cm.jpg",
+      "shopUrl": "https://art-fadist.com/produit/ruthless-nature/"
+    },
+    {
+      "id": 1176,
+      "slug": "wild-tales",
+      "name": "Wild Tales",
+      "description": "",
+      "price": 60.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract",
+        "prints"
+      ],
+      "type": "Framed print",
+      "dimensions": "30 × 40 cm frame",
+      "medium": "",
+      "image": "/assets/works/wild-tales.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2023/12/IMG_2563-1.jpg",
+      "shopUrl": "https://art-fadist.com/produit/wild-tales/"
+    },
+    {
+      "id": 1173,
+      "slug": "light",
+      "name": "Light",
+      "description": "",
+      "price": 60.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract",
+        "prints"
+      ],
+      "type": "Framed print",
+      "dimensions": "30 × 40 cm frame",
+      "medium": "",
+      "image": "/assets/works/light.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2023/12/IMG_2560.jpg",
+      "shopUrl": "https://art-fadist.com/produit/light/"
+    },
+    {
+      "id": 1165,
+      "slug": "life",
+      "name": "Life",
+      "description": "",
+      "price": 60.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract",
+        "prints"
+      ],
+      "type": "Framed print",
+      "dimensions": "30 × 40 cm frame",
+      "medium": "",
+      "image": "/assets/works/life.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2023/12/A02FD6DA-A264-4539-B6D0-B5482CB341E1.jpg",
+      "shopUrl": "https://art-fadist.com/produit/life/"
+    },
+    {
+      "id": 1122,
+      "slug": "rivers-spirits",
+      "name": "River’s spirits",
+      "description": "",
+      "price": 60.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract",
+        "prints"
+      ],
+      "type": "Framed print",
+      "dimensions": "30 × 40 cm frame",
+      "medium": "",
+      "image": "/assets/works/rivers-spirits.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2023/05/Rivers-Spirits.jpeg",
+      "shopUrl": "https://art-fadist.com/produit/rivers-spirits/"
+    },
+    {
+      "id": 740,
+      "slug": "beating-dots",
+      "name": "Beating dots",
+      "description": "",
+      "price": 135.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "disease",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/beating-dots.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_1392.jpg",
+      "shopUrl": "https://art-fadist.com/produit/beating-dots/"
+    },
+    {
+      "id": 737,
+      "slug": "an-empty-feel-beyond-this-world",
+      "name": "An empty feel beyond this world",
+      "description": "",
+      "price": 135.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "disease",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/an-empty-feel-beyond-this-world.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0084.jpg",
+      "shopUrl": "https://art-fadist.com/produit/an-empty-feel-beyond-this-world/"
+    },
+    {
+      "id": 727,
+      "slug": "where-it-began",
+      "name": "Where it began",
+      "description": "",
+      "price": 125.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "liminal-visions",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/where-it-began.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0493-1.jpg",
+      "shopUrl": "https://art-fadist.com/produit/where-it-began/"
+    },
+    {
+      "id": 724,
+      "slug": "le-presage",
+      "name": "Le présage",
+      "description": "",
+      "price": 85.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/le-presage.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0495.jpg",
+      "shopUrl": "https://art-fadist.com/produit/le-presage/"
+    },
+    {
+      "id": 721,
+      "slug": "the-thread",
+      "name": "The thread",
+      "description": "",
+      "price": 195.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "46 × 38 cm",
+      "medium": "",
+      "image": "/assets/works/the-thread.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/582DAB55-5DB0-4412-9141-870E3B5982E6.jpg",
+      "shopUrl": "https://art-fadist.com/produit/the-thread/"
+    },
+    {
+      "id": 708,
+      "slug": "stoic",
+      "name": "Stoic",
+      "description": "",
+      "price": 195.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/stoic.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_9993.jpg",
+      "shopUrl": "https://art-fadist.com/produit/stoic/"
+    },
+    {
+      "id": 705,
+      "slug": "siblings",
+      "name": "Siblings",
+      "description": "",
+      "price": 225.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "60 × 50 cm",
+      "medium": "",
+      "image": "/assets/works/siblings.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0494.jpg",
+      "shopUrl": "https://art-fadist.com/produit/siblings/"
+    },
+    {
+      "id": 702,
+      "slug": "shifted",
+      "name": "Shifted",
+      "description": "",
+      "price": 225.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "60 × 50 cm",
+      "medium": "",
+      "image": "/assets/works/shifted.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/1AC722F1-FCCE-4B45-9AF3-5B2B70BB907E.jpg",
+      "shopUrl": "https://art-fadist.com/produit/shifted/"
+    },
+    {
+      "id": 699,
+      "slug": "the-evil-ones",
+      "name": "The evil ones",
+      "description": "",
+      "price": 325.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "55 × 46 cm",
+      "medium": "",
+      "image": "/assets/works/the-evil-ones.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/B54672D2-4528-4DFF-8C63-13861E277DB9.jpg",
+      "shopUrl": "https://art-fadist.com/produit/the-evil-ones/"
+    },
+    {
+      "id": 694,
+      "slug": "mindgame",
+      "name": "Mindgame",
+      "description": "",
+      "price": 245.0,
+      "currency": "EUR",
+      "inStock": false,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/mindgame.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/5107F8C6-3770-43BC-BFA5-81D1FAE8337E.jpg",
+      "shopUrl": "https://art-fadist.com/produit/mindgame/"
+    },
+    {
+      "id": 691,
+      "slug": "triality",
+      "name": "Triality",
+      "description": "",
+      "price": 895.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "117 × 73 cm",
+      "medium": "",
+      "image": "/assets/works/triality.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0492.jpg",
+      "shopUrl": "https://art-fadist.com/produit/triality/"
+    },
+    {
+      "id": 688,
+      "slug": "we-are-one",
+      "name": "We are one",
+      "description": "",
+      "price": 245.0,
+      "currency": "EUR",
+      "inStock": false,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "46 × 38 cm",
+      "medium": "",
+      "image": "/assets/works/we-are-one.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/1F06E25D-AC14-4988-BC20-2564A5753D35.jpg",
+      "shopUrl": "https://art-fadist.com/produit/we-are-one/"
+    },
+    {
+      "id": 685,
+      "slug": "altered-conception",
+      "name": "Altered Conception",
+      "description": "",
+      "price": 245.0,
+      "currency": "EUR",
+      "inStock": false,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/altered-conception.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0021.jpg",
+      "shopUrl": "https://art-fadist.com/produit/altered-conception/"
+    },
+    {
+      "id": 682,
+      "slug": "waves",
+      "name": "Waves",
+      "description": "",
+      "price": 85.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "liminal-visions",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/waves.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_9868.jpg",
+      "shopUrl": "https://art-fadist.com/produit/waves/"
+    },
+    {
+      "id": 676,
+      "slug": "unpersonalized",
+      "name": "Unpersonalized",
+      "description": "",
+      "price": 85.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "disease",
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/unpersonalized.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0491-1.jpg",
+      "shopUrl": "https://art-fadist.com/produit/unpersonalized/"
+    },
+    {
+      "id": 664,
+      "slug": "dolly-copy",
+      "name": "Soul soup",
+      "description": "",
+      "price": 195.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract",
+        "portrait"
+      ],
+      "type": "Original painting",
+      "dimensions": "46 × 38 cm",
+      "medium": "",
+      "image": "/assets/works/dolly-copy.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0477-2.jpg",
+      "shopUrl": "https://art-fadist.com/produit/dolly-copy/"
+    },
+    {
+      "id": 643,
+      "slug": "dolly",
+      "name": "Dolly",
+      "description": "Dolly is the first of a series of realistic creatures. Halfway between Portrait and abstract creature, she’s illustrating a more in-depth thought caught in a frame.",
+      "price": 195.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures",
+        "abstract",
+        "portrait"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/dolly.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/2B8B1BE3-7DFF-4EB2-8AB8-5E2DEE9D9B63.jpg",
+      "shopUrl": "https://art-fadist.com/produit/dolly/"
+    },
+    {
+      "id": 639,
+      "slug": "mind-maze",
+      "name": "Mind Maze",
+      "description": "",
+      "price": 115.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "abstract"
+      ],
+      "type": "Original painting",
+      "dimensions": "35 × 28 cm",
+      "medium": "",
+      "image": "/assets/works/mind-maze.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/6C642B4F-B986-4DE7-B6D4-56797DBDD8C4.jpg",
+      "shopUrl": "https://art-fadist.com/produit/mind-maze/"
+    },
+    {
+      "id": 629,
+      "slug": "bad-creatures",
+      "name": "Bad creatures",
+      "description": "",
+      "price": 115.0,
+      "currency": "EUR",
+      "inStock": true,
+      "purchasable": true,
+      "categories": [
+        "creatures"
+      ],
+      "type": "Original painting",
+      "dimensions": "",
+      "medium": "",
+      "image": "/assets/works/bad-creatures.jpg",
+      "imageSource": "https://art-fadist.com/wp-content/uploads/2022/10/IMG_0479.jpg",
+      "shopUrl": "https://art-fadist.com/produit/bad-creatures/"
+    }
+  ]
+}

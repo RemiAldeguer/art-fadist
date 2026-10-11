@@ -1,0 +1,11 @@
+{
+  "name": "art-fadist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Art Fadist gallery — original paintings by Rémi Aldeguer.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  }
+}
