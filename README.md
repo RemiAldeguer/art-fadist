@@ -2,8 +2,6 @@
 
 Reconstruction du site de Rémi Aldeguer, en conservant le logo, la couleur verte, les œuvres et le contenu anglais du site actuel.
 
-Direction artistique revue le **12 octobre 2026** : typographie Instrument Serif, papier ivoire, vert profond et accent citron. L’accueil présente une sélection asymétrique d’œuvres, les tirages et le travail en atelier. Le catalogue et les fiches utilisent des images plus grandes, sans encadrement ajouté aux photographies.
-
 ## Lancer et modifier
 
 Node.js 20 ou plus récent, sans dépendance externe.

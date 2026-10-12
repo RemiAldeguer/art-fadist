@@ -30,12 +30,12 @@ function layout(title, description, main, path = '/', extra = '') {
 function card(p) {
   return `<article class="work-card"><a href="${pathFor(p)}"><div class="work-image"><img src="${p.image}" alt="${escape(p.name)} by Rémi Aldeguer" width="1200" height="1200" loading="lazy" decoding="async">${!p.inStock ? '<span class="stock-badge">Sold out</span>' : ''}</div><div class="work-info"><h3>${escape(p.name)}</h3><span class="price">${money(p)}</span></div><p class="work-type">${p.type}${p.dimensions ? ` · ${escape(p.dimensions)}` : ''}</p></a></article>`;
 }
-const featured = ['ruthless-nature', 'dolly', 'triality'].map(slug => products.find(p => p.slug === slug));
+const featured = ['bad-creatures', 'dolly', 'dolly-copy'].map(slug => products.find(p => p.slug === slug));
 let home = homeSource.match(/<main id="main">([\s\S]*?)<\/main>/)[1];
-home = home.replace(/<div id="featured-works" class="works-grid featured-grid">[\s\S]*?<\/div>/, `<div id="featured-works" class="works-grid featured-grid">${featured.map(card).join('')}</div>`);
+home = home.replace(/<div id="featured-works" class="works-grid">[\s\S]*?<\/div>/, `<div id="featured-works" class="works-grid">${featured.map(card).join('')}</div>`);
 // Home source is the editable template; generated output is reproducible.
 home = home.replace(/<section class="print-promo[\s\S]*?<\/section>/, '');
-home = home.replace('<section class="artist-section wrap">', `<section class="print-promo"><div class="wrap print-promo-inner"><div class="print-promo-copy"><p class="eyebrow">02 — A CREATURE TO CALL YOUR OWN</p><h2>Small frame.<br><em>Whole new world.</em></h2><p>Four framed prints. Four different creatures.<br>A little piece of Fadist, ready to find a home.</p><a class="button" href="/prints/">Explore framed prints <span aria-hidden="true">↗</span></a></div><div class="print-promo-image"><img src="/assets/works/rivers-spirits.jpg" alt="River’s spirits framed print by Rémi Aldeguer" width="1200" height="1200" loading="lazy"><span class="print-price">€60<span>FRAMED PRINTS</span></span></div></div></section><section class="artist-section wrap">`);
+home = home.replace('<section class="artist-section wrap">', `<section class="print-promo wrap"><div class="print-promo-image"><img src="/assets/works/rivers-spirits.jpg" alt="River’s spirits framed print by Rémi Aldeguer" width="1200" height="1200" loading="lazy"></div><div><p class="eyebrow">A CREATURE TO CALL YOUR OWN</p><h2>Small frame.<br>Whole new world.</h2><p>Discover the framed prints collection.<br>Four creatures. €60 each.</p><a class="button" href="/prints/">Explore framed prints <span aria-hidden="true">↗</span></a></div></section><section class="artist-section wrap">`);
 await save('/index.html', layout('Find your inner creature', 'Original paintings, creatures and framed prints by Rémi Aldeguer. Discover the Art Fadist gallery.', home));
 
 const categories = [
